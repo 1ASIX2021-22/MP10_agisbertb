@@ -3,6 +3,17 @@
 
 ![1200px-MySQL svg](https://user-images.githubusercontent.com/91249151/155317358-434d220f-baf6-47c5-958d-b1a0f6375c95.png)
 
+
+
+
+
+<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/91249151/155317358-434d220f-baf6-47c5-958d-b1a0f6375c95.png">
+
+
+
+
+
+
 Començarem instal·lant el MYSQL Server amb la comanda **apt install mysql-server**, li indicarem que Sí.
 
 ![Selecció_1093](https://user-images.githubusercontent.com/91249151/155302043-05e4211c-d0ca-4959-94db-917f8871cf96.png)
