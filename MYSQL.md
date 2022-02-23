@@ -61,7 +61,7 @@ Com no podrem iniciar sessió amb el nostre usuari
 
 ![Selecció_1115](https://user-images.githubusercontent.com/91249151/155314088-65870cf4-7d2b-4090-ac01-657ae7d0ae9b.png)
 
-PHP STORM
+## Configuració PHP STORM
 
 ![1_oLFo5u_zyBkuS8WpSoXBIQ](https://user-images.githubusercontent.com/91249151/155317192-cae84918-ac80-4b4c-8bb4-6f6181e53d9f.png)
 
@@ -84,8 +84,11 @@ Ens donarà un avís que ens falten els drivers, li donarem a Download.
 ![Selecció_1121](https://user-images.githubusercontent.com/91249151/155316985-b846f4dc-4f42-4d5d-b860-e2d392d5f5f1.png)
 
 
+![Selecció_1122](https://user-images.githubusercontent.com/91249151/155318235-d60601d9-cbd3-40d5-b871-cfd677990ef9.png)
 
+![Selecció_1123](https://user-images.githubusercontent.com/91249151/155318271-4d30eeb0-4d2f-4314-b7ad-b2cc708d5791.png)
 
+![Selecció_1124](https://user-images.githubusercontent.com/91249151/155318344-872b15ef-dc2d-4dda-8ed8-5f46c5ba08ad.png)
 
 
 
