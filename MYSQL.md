@@ -21,4 +21,8 @@ Com no podrem iniciar sessió amb el nostre usuari
 ![Selecció_1098](https://user-images.githubusercontent.com/91249151/155306057-bd714443-5384-4cb4-9a25-0882fe7ab05f.png)
 
 
+![Selecció_1099](https://user-images.githubusercontent.com/91249151/155307587-e488a3a6-c8f3-420a-be5e-428da88894a0.png)
+
+
+
 
