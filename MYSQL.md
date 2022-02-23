@@ -2,9 +2,12 @@
   <b>Instal·lació sistema gestor de base de dades. MySQL</b>
 </h1>
 
+    ![pngegg](https://user-images.githubusercontent.com/91249151/155364414-9f5e788a-1d73-410c-a799-36d59c480bd3.png)
+
+
 
 <p align="center">
-  <img width="550" height="450" src="https://user-images.githubusercontent.com/91249151/155317358-434d220f-baf6-47c5-958d-b1a0f6375c95.png">
+  <img src="https://user-images.githubusercontent.com/91249151/155364414-9f5e788a-1d73-410c-a799-36d59c480bd3.png">
 </p>
 <br>
 <p align="center">
