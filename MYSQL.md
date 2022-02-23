@@ -44,12 +44,11 @@ Com no podrem iniciar sessió amb el nostre usuari
 
 ![Selecció_1109](https://user-images.githubusercontent.com/91249151/155311321-8e5ac91e-3ea9-410a-9dc3-1f9ec3d36f03.png)
 
+![Selecció_1110](https://user-images.githubusercontent.com/91249151/155311759-4c0d4adc-14a1-46a7-af67-d554cd937bf3.png)
 
+![Selecció_1111](https://user-images.githubusercontent.com/91249151/155312190-8e2c69c8-6170-4645-afb7-3a7ddbf278de.png)
 
-
-
-
-
+![Selecció_1095](https://user-images.githubusercontent.com/91249151/155312191-bf4b69b6-d5a0-40e6-988e-dbcd348ab232.png)
 
 
 
