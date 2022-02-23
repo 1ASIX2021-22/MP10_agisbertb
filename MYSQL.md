@@ -60,6 +60,10 @@ Com no podrem iniciar sessió amb el nostre usuari
 
 PHP STORM
 
+![1_oLFo5u_zyBkuS8WpSoXBIQ](https://user-images.githubusercontent.com/91249151/155317192-cae84918-ac80-4b4c-8bb4-6f6181e53d9f.png)
+
+
+
 ![Selecció_1117](https://user-images.githubusercontent.com/91249151/155315996-b23ee806-7463-40b4-a0ee-4b8636bc8805.png)
 
 ![Selecció_1118](https://user-images.githubusercontent.com/91249151/155316029-49f078fd-3eaf-4907-8807-635c45cd2bb1.png)
