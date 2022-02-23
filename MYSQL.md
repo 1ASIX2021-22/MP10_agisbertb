@@ -15,15 +15,17 @@
   <img src="https://user-images.githubusercontent.com/91249151/155302043-05e4211c-d0ca-4959-94db-917f8871cf96.png">
 </p>
 
-
-  
-![Selecció_1093](https://user-images.githubusercontent.com/91249151/155302043-05e4211c-d0ca-4959-94db-917f8871cf96.png)
-
 Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosaltres per al que volem fer.
 
-![Selecció_1094](https://user-images.githubusercontent.com/91249151/155302575-3ec9045c-8904-4ad1-8212-c01089af7a65.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91249151/155302575-3ec9045c-8904-4ad1-8212-c01089af7a65.png">
+</p>
 
 Com no podrem iniciar sessió amb el nostre usuari
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91249151/155303908-2f5f1a02-661a-4218-988d-6eb4de063f8e.png">
+</p>
 
 ![Selecció_1095](https://user-images.githubusercontent.com/91249151/155303908-2f5f1a02-661a-4218-988d-6eb4de063f8e.png)
 
