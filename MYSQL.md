@@ -50,5 +50,10 @@ Com no podrem iniciar sessió amb el nostre usuari
 
 ![Selecció_1095](https://user-images.githubusercontent.com/91249151/155312191-bf4b69b6-d5a0-40e6-988e-dbcd348ab232.png)
 
+![Selecció_1112](https://user-images.githubusercontent.com/91249151/155313001-5035dabe-3282-42f0-b121-d0b4bfeedc70.png)
+
+![Selecció_1113](https://user-images.githubusercontent.com/91249151/155313010-7ea8d153-0839-470b-a002-cd2dc2870420.png)
+
+![Selecció_1114](https://user-images.githubusercontent.com/91249151/155313022-3f8325d2-ef86-4250-b18d-d6255cbfd519.png)
 
 
