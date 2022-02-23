@@ -4,12 +4,9 @@
 ![1200px-MySQL svg](https://user-images.githubusercontent.com/91249151/155317358-434d220f-baf6-47c5-958d-b1a0f6375c95.png)
 
 
-
-
-
-<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/91249151/155317358-434d220f-baf6-47c5-958d-b1a0f6375c95.png">
-
-
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/91249151/155317358-434d220f-baf6-47c5-958d-b1a0f6375c95.png">
+</p>
 
 
 
