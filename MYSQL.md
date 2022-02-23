@@ -5,3 +5,10 @@ Començarem instal·lant el MYSQL Server amb la comanda apt install mysql-server
 Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosaltres per al que volem fer.
 
 ![Selecció_1094](https://user-images.githubusercontent.com/91249151/155302575-3ec9045c-8904-4ad1-8212-c01089af7a65.png)
+
+
+
+![Selecció_1095](https://user-images.githubusercontent.com/91249151/155303908-2f5f1a02-661a-4218-988d-6eb4de063f8e.png)
+
+
+![Selecció_1096](https://user-images.githubusercontent.com/91249151/155304131-3461de9f-7aa5-491e-864a-e38abb11b687.png)
