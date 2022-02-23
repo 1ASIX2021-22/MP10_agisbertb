@@ -1,12 +1,12 @@
 <h1 align="center">
   <b>Instal·lació sistema gestor de base de dades. MySQL</b>
 </h1>
-<br>
+
 
 <p align="center">
   <img width="550" height="450" src="https://user-images.githubusercontent.com/91249151/155317358-434d220f-baf6-47c5-958d-b1a0f6375c95.png">
 </p>
-
+<br>
 <p align="center">
   Començarem instal·lant el MYSQL Server amb la comanda <b>apt install mysql-server</b>, li indicarem que Sí.
 </p>
