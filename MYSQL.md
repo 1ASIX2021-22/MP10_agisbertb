@@ -61,7 +61,7 @@ Com no podrem iniciar sessió amb el nostre usuari
 
 ![Selecció_1115](https://user-images.githubusercontent.com/91249151/155314088-65870cf4-7d2b-4090-ac01-657ae7d0ae9b.png)
 
-## Configuració PHP STORM
+Configuració PHP STORM
 
 ![1_oLFo5u_zyBkuS8WpSoXBIQ](https://user-images.githubusercontent.com/91249151/155317192-cae84918-ac80-4b4c-8bb4-6f6181e53d9f.png)
 
