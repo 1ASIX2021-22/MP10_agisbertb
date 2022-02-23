@@ -40,8 +40,9 @@ Com no podrem iniciar sessió amb el nostre usuari
 
 ![Selecció_1107](https://user-images.githubusercontent.com/91249151/155310880-78400ad2-d2d5-4d46-a239-676eb6d17473.png)
 
+![Selecció_1108](https://user-images.githubusercontent.com/91249151/155311299-89773416-0299-4ead-864e-879675f98854.png)
 
-
+![Selecció_1109](https://user-images.githubusercontent.com/91249151/155311321-8e5ac91e-3ea9-410a-9dc3-1f9ec3d36f03.png)
 
 
 
