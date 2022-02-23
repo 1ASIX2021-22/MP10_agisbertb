@@ -90,6 +90,55 @@ Ens donarà un avís que ens falten els drivers, li donarem a Download.
 
 ![Selecció_1124](https://user-images.githubusercontent.com/91249151/155318344-872b15ef-dc2d-4dda-8ed8-5f46c5ba08ad.png)
 
+CODI PHP
+
+![Selecció_1125](https://user-images.githubusercontent.com/91249151/155319512-f0b16c68-6348-40be-b7cc-e1745c8a9f9e.png)
+
+
+![Selecció_1127](https://user-images.githubusercontent.com/91249151/155320679-0c7001b9-dc0b-4208-a181-bcded24c7e03.png)
+
+
+
+![Selecció_1131](https://user-images.githubusercontent.com/91249151/155321350-ee8c76e6-6b60-4e79-8544-6748a286f441.png)
+
+
+![Selecció_1132](https://user-images.githubusercontent.com/91249151/155332635-b0dda926-c297-402f-aaea-9fc7d572fb7a.png)
+
+
+![Selecció_1134](https://user-images.githubusercontent.com/91249151/155332661-22add513-5485-442d-9fb2-b70d17160fb4.png)
+
+
+
+![Selecció_1135](https://user-images.githubusercontent.com/91249151/155333055-3066480b-5470-4d47-ad00-d94e669631e1.png)
+
+
+![Selecció_1137](https://user-images.githubusercontent.com/91249151/155333063-7c8ad2ad-02f7-4e65-8fc9-91708d16a603.png)
+
+
+![Selecció_1138](https://user-images.githubusercontent.com/91249151/155333956-f837680f-4a62-4b23-8ee1-ecd2bf978fc9.png)
+
+
+![Selecció_1139](https://user-images.githubusercontent.com/91249151/155333972-6d510bbc-d39e-45c8-80d8-01d637a9c51d.png)
+
+
+![Selecció_1140](https://user-images.githubusercontent.com/91249151/155333992-11a10708-371f-454c-85a5-4088d009a44b.png)
+
+
+![Selecció_1141](https://user-images.githubusercontent.com/91249151/155334022-d54f4220-5c90-4962-81e6-a39f143c9b6a.png)
+
+
+
+
+![Selecció_1143](https://user-images.githubusercontent.com/91249151/155335981-acc28a69-7fa7-4e22-aab0-97baebdff002.png)
+
+
+![Selecció_1095](https://user-images.githubusercontent.com/91249151/155336052-8a9f234b-f9e1-4e91-8829-99f1bf44ddf5.png)
+
+
+
+![Selecció_1144](https://user-images.githubusercontent.com/91249151/155336006-d9453e1e-bf83-46f1-83d7-a6d347036cf7.png)
+
+
 
 
 
