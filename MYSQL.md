@@ -9,9 +9,7 @@
 <br>
 <p align="center">
   Començarem instal·lant el MYSQL Server amb la comanda <b>apt install mysql-server</b>, li indicarem que Sí.
-</p>
 
-<p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155302043-05e4211c-d0ca-4959-94db-917f8871cf96.png">
 </p>
 
