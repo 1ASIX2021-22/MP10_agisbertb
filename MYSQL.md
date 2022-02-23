@@ -90,6 +90,16 @@ Ens donarà un avís que ens falten els drivers, li donarem a Download.
 
 ![Selecció_1124](https://user-images.githubusercontent.com/91249151/155318344-872b15ef-dc2d-4dda-8ed8-5f46c5ba08ad.png)
 
+![Selecció_1145](https://user-images.githubusercontent.com/91249151/155339568-b8cb6559-8f7e-441f-9002-6882a13853c6.png)
+
+
+![Selecció_1146](https://user-images.githubusercontent.com/91249151/155339582-ddc2f8c0-68da-4ebb-b9fd-19fde1d7e779.png)
+
+
+![Selecció_1147](https://user-images.githubusercontent.com/91249151/155339591-69b487c4-55b9-443f-9f38-fa63949d5a17.png)
+
+
+
 CODI PHP
 
 ![Selecció_1125](https://user-images.githubusercontent.com/91249151/155319512-f0b16c68-6348-40be-b7cc-e1745c8a9f9e.png)
