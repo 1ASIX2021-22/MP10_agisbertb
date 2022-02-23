@@ -8,9 +8,17 @@ Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosalt
 
 ![Selecció_1094](https://user-images.githubusercontent.com/91249151/155302575-3ec9045c-8904-4ad1-8212-c01089af7a65.png)
 
-
+Com no podrem iniciar sessió amb el nostre usuari
 
 ![Selecció_1095](https://user-images.githubusercontent.com/91249151/155303908-2f5f1a02-661a-4218-988d-6eb4de063f8e.png)
 
 
+
 ![Selecció_1096](https://user-images.githubusercontent.com/91249151/155304131-3461de9f-7aa5-491e-864a-e38abb11b687.png)
+
+
+
+![Selecció_1098](https://user-images.githubusercontent.com/91249151/155306057-bd714443-5384-4cb4-9a25-0882fe7ab05f.png)
+
+
+
