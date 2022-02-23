@@ -148,6 +148,10 @@ CODI PHP
 
 ![Selecció_1144](https://user-images.githubusercontent.com/91249151/155336006-d9453e1e-bf83-46f1-83d7-a6d347036cf7.png)
 
+![Selecció_1148](https://user-images.githubusercontent.com/91249151/155340040-4f5b94db-3ac4-42ec-81ca-906b0e35a479.png)
+
+
+![Selecció_1149](https://user-images.githubusercontent.com/91249151/155340056-32c60c14-9319-4c0a-a668-f19c45063167.png)
 
 
 
