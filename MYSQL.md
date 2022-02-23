@@ -13,7 +13,8 @@ Començarem instal·lant el MYSQL Server amb la comanda **apt install mysql-serv
   <img width="460" height="300" src="https://user-images.githubusercontent.com/91249151/155302043-05e4211c-d0ca-4959-94db-917f8871cf96.png">
 </p>
 
-
+<p align="center">
+  
 ![Selecció_1093](https://user-images.githubusercontent.com/91249151/155302043-05e4211c-d0ca-4959-94db-917f8871cf96.png)
 
 Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosaltres per al que volem fer.
@@ -24,7 +25,7 @@ Com no podrem iniciar sessió amb el nostre usuari
 
 ![Selecció_1095](https://user-images.githubusercontent.com/91249151/155303908-2f5f1a02-661a-4218-988d-6eb4de063f8e.png)
 
-
+</p>
 
 ![Selecció_1096](https://user-images.githubusercontent.com/91249151/155304131-3461de9f-7aa5-491e-864a-e38abb11b687.png)
 
