@@ -236,3 +236,30 @@ CODI PHP
   <img src="(https://user-images.githubusercontent.com/91249151/155340056-32c60c14-9319-4c0a-a668-f19c45063167.png">
 </p>
 
+
+![Selecció_1135](https://user-images.githubusercontent.com/91249151/155475958-79727701-d85b-4f95-8188-20733d031bd0.png)
+
+
+![Selecció_1137](https://user-images.githubusercontent.com/91249151/155476003-1e020cf2-dff2-4172-87c5-90f95ce0f811.png)
+
+
+![Selecció_1138](https://user-images.githubusercontent.com/91249151/155476088-039b4689-0344-4755-b132-9c6d882928bb.png)
+
+
+![Selecció_1139](https://user-images.githubusercontent.com/91249151/155476113-36e102ba-da6d-4828-a0b4-49defc38c88b.png)
+
+
+![Selecció_1140](https://user-images.githubusercontent.com/91249151/155476437-c036c992-787f-4a96-ac81-9f832cf6af1d.png)
+
+![Selecció_1141](https://user-images.githubusercontent.com/91249151/155476454-73138404-cd01-4be8-a3b5-640fe2c3fe8c.png)
+
+![Selecció_1143](https://user-images.githubusercontent.com/91249151/155476502-12a95382-24ba-49ff-8952-3dc03e56d510.png)
+
+![Selecció_1144](https://user-images.githubusercontent.com/91249151/155476526-8399979a-ff00-4161-943f-032cb58ee144.png)
+
+![Selecció_1148](https://user-images.githubusercontent.com/91249151/155476601-81d2571d-0b83-4843-88a9-02b6452c9bb5.png)
+
+![Selecció_1149](https://user-images.githubusercontent.com/91249151/155476611-08f919b2-5cbc-4868-8936-baccd459d0ac.png)
+
+
+
