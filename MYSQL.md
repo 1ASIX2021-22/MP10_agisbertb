@@ -22,10 +22,16 @@ Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosalt
   <img src="https://user-images.githubusercontent.com/91249151/155302575-3ec9045c-8904-4ad1-8212-c01089af7a65.png">
 </p>
 
-Com no podrem iniciar sessió amb el nostre usuari
-
+<p align="center">
+  Com no podrem iniciar sessió al MYSQL amb el nostre usuari, amb un <b>cat</b> veurem el contingut d'aquest fitxer on obtindrem l'usuari i password del usuari debyan-sys-maint.
+</p>
+  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155303908-2f5f1a02-661a-4218-988d-6eb4de063f8e.png">
+</p>
+
+<p align="center">
+  Amb aquest usuari sí que podrem iniciar sessió, amb la següent comanda iniciarem sessió.
 </p>
 
 <p align="center">
@@ -33,11 +39,27 @@ Com no podrem iniciar sessió amb el nostre usuari
 </p>
 
 <p align="center">
+  Un cop dins del MYSQL, crearem una base de dades de prova amb la comanda <b>CREATE DATABASE</b> i comprovarem que s'ha creat aquesta base de dades amb la comanda <b>SHOW DATABASES</b>
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155306057-bd714443-5384-4cb4-9a25-0882fe7ab05f.png">
 </p>
 
 <p align="center">
+  Accedirem dins d'aquesta base de dades amb la comanda <b>use</b>, crearem una taula amb la comanda <b>create table</b> i comprovarem que s'ha creat aquesta base de dades amb la comanda <b>SHOW TABLES</b>
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155307587-e488a3a6-c8f3-420a-be5e-428da88894a0.png">
+</p>
+
+<h2 align="center">
+  <b>Instal·lació i configuració MYSQL Workbench</b>
+</h2>
+
+<p align="center">
+  Primer que res anirem a la pàgina de descàrregues del MYSQL Community i ens baixarem el seu repositori.
 </p>
 
 <p align="center">
