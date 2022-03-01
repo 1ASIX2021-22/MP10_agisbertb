@@ -187,7 +187,15 @@ Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosalt
 </p>
 
 <p align="center">
+  Primer que res obrirem el <b>PHPStorm</b> i crearem un nou projecte.
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155315996-b23ee806-7463-40b4-a0ee-4b8636bc8805.png">
+</p>
+
+<p align="center">
+  A la part lateral dreta obrirem la pestanya <b>Database</b>, <b>Data source</b>, <b>MySQL</b> 
 </p>
 
 <p align="center">
