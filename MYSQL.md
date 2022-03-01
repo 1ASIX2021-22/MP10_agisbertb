@@ -178,12 +178,12 @@ Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosalt
   <img src="https://user-images.githubusercontent.com/91249151/155314088-65870cf4-7d2b-4090-ac01-657ae7d0ae9b.png">
 </p>
 
-<h1 align="center">
+<h2 align="center">
   <b>Configuració PHP STORM</b>
-</h1>
+</h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91249151/155317192-cae84918-ac80-4b4c-8bb4-6f6181e53d9f.png">
+  <img src="https://user-images.githubusercontent.com/91249151/156244671-f5b54d5b-4a38-4971-8538-49d533674a47.png">
 </p>
 
 <p align="center">
