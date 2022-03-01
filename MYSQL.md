@@ -95,7 +95,15 @@ Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosalt
 </p>
 
 <p align="center">
+  Un cop tenim el repositori instal·lat farem un apt-get update per actualitzar els repositoris.
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155310851-7feb10cc-dba4-42da-bb04-bdf1cca18f16.png">
+</p>
+
+<p align="center">
+  Ara amb la comanda <b>apt install mysql-workbench-community</b> instal·larem aquest paquet.
 </p>
 
 <p align="center">
@@ -104,6 +112,10 @@ Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosalt
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155310880-78400ad2-d2d5-4d46-a239-676eb6d17473.png">
+</p>
+
+<p align="center">
+  Un cop instal·lat el paquet l'iniciarem amb la comanda <b>sudo mysql-workbench</b>.
 </p>
 
 <p align="center">
