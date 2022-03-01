@@ -67,11 +67,23 @@ Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosalt
 </p>
 
 <p align="center">
+  Accedirem dins de la carpeta <b>Baixades</b> i instal·larem aquest repositori.
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155310768-034e3b99-89f2-49fb-98cf-2088520743b5.png">
 </p>
 
 <p align="center">
+  Escollirem la primera opció i continuarem.
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155310779-fa337d77-9617-4e4c-b082-9a4893374db2.png">
+</p>
+
+<p align="center">
+  Aquí també escollirem la primera opció i continuarem.
 </p>
 
 <p align="center">
