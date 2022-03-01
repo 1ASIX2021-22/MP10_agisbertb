@@ -195,26 +195,31 @@ Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosalt
 </p>
 
 <p align="center">
-  A la part lateral dreta obrirem la pestanya <b>Database</b>, <b>Data source</b>, <b>MySQL</b> 
+  A la part lateral dreta obrirem la pestanya <b>Database</b>, <b>Data source</b>, <b>MySQL</b>. 
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155316029-49f078fd-3eaf-4907-8807-635c45cd2bb1.png">
 </p>
 
-Ens donarà un avís que ens falten els drivers, li donarem a Download.
+<p align="center">
+  Ens donarà un avís que ens falten els drivers, li donarem a Download.
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155316041-7d70d924-610a-46d6-a165-b91e612190f4.png">
 </p>
 
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91249151/155316870-7870a4aa-11a4-4861-a795-729d3f114763.png">
+  Com hem fet abans amb el MySQL Workbench utilitzarem l'usuari <b>debian-sys-maint</b>.
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155316845-dec9c2e5-1cbc-4734-bfa1-39fbb26f483e.png">
+</p>
+
+<p align="center">
+  Farem un test de connexió per veure que és connecta correctament.
 </p>
 
 <p align="center">
