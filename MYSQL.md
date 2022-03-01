@@ -127,7 +127,15 @@ Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosalt
 </p>
 
 <p align="center">
+  Ja dins del MYSQL Workbench farem una prova per connectar-nos a la base de dades que hem creat abans, li donarem a <b>Edit Connection</b> per editar la configuració.
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155311759-4c0d4adc-14a1-46a7-af67-d554cd937bf3.png">
+</p>
+
+<p align="center">
+  Per defecte l'usuari es el root però nosaltres ens connectarem amb l'usuari que hem utilitzat abans, el <b>debian-sys-maint</b>.
 </p>
 
 <p align="center">
@@ -139,7 +147,15 @@ Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosalt
 </p>
 
 <p align="center">
+  Li posarem l'usuari <b>debian-sys-maint</b> i la seva contrasenya.
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155313001-5035dabe-3282-42f0-b121-d0b4bfeedc70.png">
+</p>
+
+<p align="center">
+  Farem un test per veure que ens podem connectar i com veiem ens funciona.
 </p>
 
 <p align="center">
@@ -147,7 +163,15 @@ Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosalt
 </p>
 
 <p align="center">
+  Ja som dins de la base de dades.
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155313022-3f8325d2-ef86-4250-b18d-d6255cbfd519.png">
+</p>
+
+<p align="center">
+  Com podem veure al lateral esquerre, si anem a <b>Schemas</b> veiem com està la base de dades i la taula que hem creat abans.
 </p>
 
 <p align="center">
