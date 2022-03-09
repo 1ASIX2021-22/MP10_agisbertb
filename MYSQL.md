@@ -9,6 +9,9 @@ sudo apt-get install mysql-server-8.0
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155364414-9f5e788a-1d73-410c-a799-36d59c480bd3.png">
 </p>
+
+---
+
 <br>
 <p align="center">
   Començarem instal·lant el MYSQL Server amb la comanda <b>apt install mysql-server</b>, li indicarem que Sí.
@@ -190,6 +193,8 @@ Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosalt
   <img src="https://user-images.githubusercontent.com/91249151/156244671-f5b54d5b-4a38-4971-8538-49d533674a47.png">
 </p>
 
+---
+
 <p align="center">
   Primer que res obrirem el <b>PHPStorm</b> i crearem un nou projecte.
 </p>
@@ -207,7 +212,7 @@ Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosalt
 </p>
 
 <p align="center">
-  Ens donarà un avís que ens falten els drivers, li donarem a Download.
+  Ens donarà un avís que ens falten els drivers, li donarem a <b>Download</b>.
 </p>
 
 <p align="center">
@@ -215,7 +220,7 @@ Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosalt
 </p>
 
 <p align="center">
-  Com hem fet abans amb el MySQL Workbench utilitzarem l'usuari <b>debian-sys-maint</b>.
+  Com hem fet abans amb el MySQL Workbench utilitzarem l'usuari <b>debian-sys-maint</b> per connectar-nos.
 </p>
 
 <p align="center">
@@ -231,7 +236,7 @@ Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosalt
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91249151/155318235-d60601d9-cbd3-40d5-b871-cfd677990ef9.png">
+  Li assignarem la base de dades <b>tasks</b> que hem creat abans.
 </p>
 
 <p align="center">
@@ -239,7 +244,15 @@ Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosalt
 </p>
 
 <p align="center">
+  I ja tindrem accés al Mysql i a la base de dades <b>tasks</b>.
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155318344-872b15ef-dc2d-4dda-8ed8-5f46c5ba08ad.png">
+</p>
+
+<p align="center">
+  Ara per fer una comprovació per veure que funciona correctament anirem dins de la taula <b>tasks</b>, botó dret damunt de description i farem un insert amb  <b>+ Add row</b>
 </p>
 
 <p align="center">
@@ -247,7 +260,15 @@ Acabarà la instal·lació donant alguns errors, però no ens afectarà a nosalt
 </p>
 
 <p align="center">
+  Li posarem de nom Tasca 1 i li donarem a <b>Submit</b> per per confirmar el insert.
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155339582-ddc2f8c0-68da-4ebb-b9fd-19fde1d7e779.png">
+</p>
+
+<p align="center">
+  Per comprovar que s'ha fet l'insert correctament obrirem el <b>Mysql Workbench</b> i farem un <b>SELECT</b> de la taula <b>tasks</b> i podem veure com ens apareix la <b>Tasca 1</b>.
 </p>
 
 <p align="center">
