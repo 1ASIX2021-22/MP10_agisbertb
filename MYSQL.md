@@ -2,10 +2,6 @@
   <b>Instal·lació sistema gestor de base de dades. MySQL</b>
 </h1>
 
-```bash
-sudo apt-get install mysql-server-8.0
-```
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155364414-9f5e788a-1d73-410c-a799-36d59c480bd3.png">
 </p>
@@ -14,8 +10,12 @@ sudo apt-get install mysql-server-8.0
 
 <br>
 <p align="center">
-  Començarem instal·lant el MYSQL Server amb la comanda <b>apt install mysql-server</b>, li indicarem que Sí.
+  Començarem instal·lant el MYSQL Server amb la següent comanda:
 </p>
+
+```bash
+sudo apt-get install mysql-server
+```
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91249151/155302043-05e4211c-d0ca-4959-94db-917f8871cf96.png">
